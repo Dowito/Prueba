@@ -1,0 +1,6 @@
+int suma (int num){
+	if(sum==0) return 0;
+	int sum;
+	sum = num + num;
+	return num;
+}
