@@ -1,3 +1,5 @@
 int potencia(int num){
-
+	int pot;
+	pot = num*num;
+	return pot;
 }
