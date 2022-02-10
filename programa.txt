@@ -1,3 +1,5 @@
-suma (){
-
+int suma (int num){
+	int sum;
+	sum = num + num;
+	return num;
 }
